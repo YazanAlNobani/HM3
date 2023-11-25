@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\HM2\HM2\bin\Debug\HM2.exe.config
+C:\Users\ASUS\source\repos\HM2\HM2\bin\Debug\HM2.exe
+C:\Users\ASUS\source\repos\HM2\HM2\bin\Debug\HM2.pdb
+C:\Users\ASUS\source\repos\HM2\HM2\obj\Debug\HM2.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\HM2\HM2\obj\Debug\HM2.Form1.resources
+C:\Users\ASUS\source\repos\HM2\HM2\obj\Debug\HM2.Properties.Resources.resources
+C:\Users\ASUS\source\repos\HM2\HM2\obj\Debug\HM2.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\HM2\HM2\obj\Debug\HM2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HM2\HM2\obj\Debug\HM2.exe
+C:\Users\ASUS\source\repos\HM2\HM2\obj\Debug\HM2.pdb
+C:\Users\ASUS\source\repos\HM2\HM2\obj\Debug\HM2.Form2.resources
